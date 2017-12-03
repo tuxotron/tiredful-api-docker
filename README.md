@@ -9,6 +9,8 @@ You will need to prefix such command with *sudo* if your user doesn't have eleva
 
 If you prefer to build your own image, just clone this repository and issue a docker build command.
 
+Once you have run that commmand, you should be able to access to the application through port 8000 on localhost.
+
 ### What is Tiredful API?
 
 Tiredful API is intentionally designed broken app. The aim of this web app is to teach developers, QA  or security professionals about flaws present in webservices (REST API) due to insecure coding practice.
